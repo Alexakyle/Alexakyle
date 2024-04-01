@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY1b2EzeWdidmZ6aG1rMDZka21vM2o2ZnRpc2NpbzVuNnhiOThldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FrnpqArQZtti8/giphy.gif"  />
+  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY1b2EzeWdidmZ6aG1rMDZka21vM2o2ZnRpc2NpbzVuNnhiOThldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FrnpqArQZtti8/giphy.gif"  />
 </div>
 
 ###
 
-<h6 align="center">Connect with me...</h6>
+<h2 align="center">༘⋆🌷🫧💭₊˚ Connect with me ⋆🌷🫧💭₊˚ෆ</h2>
 
 ###
 
@@ -33,6 +33,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="center">About Me ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚</h3>
 
 ###
@@ -43,7 +45,7 @@
 
 ###
 
-<h3 align="left">๋࣭ ⭑💻 Language ๋࣭ ⭑💻</h3>
+<h3 align="center">๋࣭ ⭑💻 Language ๋࣭ ⭑💻</h3>
 
 ###
 
@@ -51,31 +53,31 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="30" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
 </div>
 
 ###
 
-<h3 align="left">Stats:</h3>
+<h3 align="center">Stats:</h3>
 
 ###
 
