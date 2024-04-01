@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Connect with me...</p>
+<h6 align="center">Connect with me...</h6>
 
 ###
 
@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<h6 align="left">~ ‧₊˚🖇️✩ ₊˚🎧⊹♡ Currently studying at Centro Escolar University<br><br>~ ‧₊˚🖇️✩ ₊˚🎧⊹♡ 2nd Year BSIT Student<br><br>(´｡• ◡ •｡`) ♡ Goals :<br><br>    ~ Finish College!!!!!!!!! and yup live my happy rich disney princess life</h6>
+<h6 align="center">~ ‧₊˚🖇️✩ ₊˚🎧⊹♡ Currently studying at Centro Escolar University<br><br>~ ‧₊˚🖇️✩ ₊˚🎧⊹♡ 2nd Year BSIT Student<br><br>(´｡• ◡ •｡`) ♡ Goals :<br><br>    ~ Finish College!!!!!!!!! and yup live my happy rich disney princess life</h6>
 
 ###
 
@@ -86,8 +86,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexakyle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Alexakyle&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Alexakyle/Alexakyle/output/snake.svg" alt="Snake animation" />
 
 ###
